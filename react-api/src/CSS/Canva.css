@@ -1,0 +1,30 @@
+.myCanva {
+    height: 85%;
+    width: 250px !important;
+    border-radius: 0px 10px 10px 0px;
+    margin-top: 0.3rem;
+}
+
+.bar{
+    background: #353c59 ;
+    color: white;
+}
+
+.canva-container {
+    display: flex;
+    flex-direction: column;
+}
+
+
+#cerrar {
+    padding: 1rem 0;
+    position: absolute;
+    margin-left: 20px;
+    margin-bottom: 25px;
+    bottom: 0;
+}
+
+#prod {
+    padding-top: 3rem;
+    margin-right: 100px;
+}
